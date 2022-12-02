@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10633" started-at="2022-11-23T09:57:58 IST" finished-at="2022-11-23T09:58:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10633" started-at="2022-11-23T09:57:58 IST" finished-at="2022-11-23T09:58:09 IST">
+      <class name="com.testng.Amazon">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.testng.Amazon@543c6f6d]" name="browser" duration-ms="1836" started-at="2022-11-23T09:57:58 IST" finished-at="2022-11-23T09:58:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="launchTheUrl()[pri:0, instance:com.testng.Amazon@543c6f6d]" name="launchTheUrl" is-config="true" duration-ms="2267" started-at="2022-11-23T09:58:00 IST" finished-at="2022-11-23T09:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTheUrl -->
+        <test-method status="PASS" signature="selectTheValue()[pri:0, instance:com.testng.Amazon@543c6f6d]" name="selectTheValue" is-config="true" duration-ms="2404" started-at="2022-11-23T09:58:03 IST" finished-at="2022-11-23T09:58:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTheValue -->
+        <test-method status="PASS" signature="goToTheSearchtab()[pri:0, instance:com.testng.Amazon@543c6f6d]" name="goToTheSearchtab" is-config="true" duration-ms="4095" started-at="2022-11-23T09:58:05 IST" finished-at="2022-11-23T09:58:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToTheSearchtab -->
+        <test-method status="PASS" signature="noOfProducts()[pri:0, instance:com.testng.Amazon@543c6f6d]" name="noOfProducts" is-config="true" duration-ms="3158" started-at="2022-11-23T09:58:09 IST" finished-at="2022-11-23T09:58:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noOfProducts -->
+      </class> <!-- com.testng.Amazon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

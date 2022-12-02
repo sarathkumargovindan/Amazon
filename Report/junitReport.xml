@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.715">
+<testcase classname="Amazon project" name="go To The Amazon Homepage" time="12.578">
+<system-out><![CDATA[Given launch The Url Of The Homepage........................................passed
+When select The "baby" From The Dropdown....................................passed
+And go To The SearchTab And Search The "toys"...............................passed
+And compare The Value Of Suggested List.....................................passed
+Then get The No Of Products In Result And More Result Tag...................passed
+]]></system-out>
+</testcase>
+</testsuite>
